@@ -2,7 +2,7 @@
 ### Interactive Prisoner's Dilemma game
 
 <p align="center">
-<img src="./images/cover.png" alt="" width="600">
+<img src="./images/cover.png" alt="" width="900">
 </p>
 
 > #### Your strategy
