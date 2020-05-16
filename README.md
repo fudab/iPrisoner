@@ -1,6 +1,10 @@
 # iPrisoner
 ### Interactive Prisoner's Dilemma game
 
+<p align="center">
+<img src="./images/cover.png" alt="" width="600">
+</p>
+
 > #### Your strategy
 
 * Cooperator
