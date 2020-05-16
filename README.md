@@ -20,13 +20,12 @@
 
 > #### Output
 
-<table align = "center">
-<thead>
-  <tr>
-    <th>Your score</th>
-    <th>Opponent's score</th>
-  </tr>
-</thead>
-</table>
-
-
+* Scores
+  * your score: `$s_X$`
+  * opponent's score: $s_Y$
+  
+* Frequencies
+  * $(C, C)$
+  * $(C, D)$
+  * $(D, C)$
+  * $(D, D)$
