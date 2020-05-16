@@ -12,7 +12,7 @@ Interactive Prisoner's Dilemma game.
 
 ### Opponent's strategy
 
-* Zero Determinant with $\chi > 1$.
+* Zero Determinant with an extortion factor $\chi$.
 
 ### Number of rounds
 
