@@ -37,3 +37,7 @@
   * (D, D)
   
 > #### Plot
+
+<p align="center">
+<img src="./scripts/figures/ZDGo/Human.png" alt="" width="600">
+</p>
