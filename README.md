@@ -39,5 +39,5 @@
 > #### Plot
 
 <p align="center">
-<img src="./scripts/figures/ZDGo/Human.png" alt="" width="600">
+<img src="./scripts/figures/ZDGo/Human.png" alt="" width="400">
 </p>
