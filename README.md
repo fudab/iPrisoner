@@ -1,7 +1,7 @@
 # iPrisoner
 Interactive Prisoner's Dilemma game. 
 
-### Your strategy
+> ### Your strategy
 
 * Cooperator
 * Defector
@@ -10,11 +10,11 @@ Interactive Prisoner's Dilemma game.
 * Win-Stay Lose-Shift
 * Human
 
-### Opponent's strategy
+> ### Opponent's strategy
 
 * Zero Determinant with an extortion factor $\chi$.
 
-### Number of rounds
+> ### Number of rounds
 
 * $n$
 
