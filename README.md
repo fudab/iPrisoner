@@ -1,5 +1,5 @@
 # iPrisoner
-### Interactive Prisoner's Dilemma game. 
+### `Interactive Prisoner's Dilemma game`
 
 > #### Your strategy
 
