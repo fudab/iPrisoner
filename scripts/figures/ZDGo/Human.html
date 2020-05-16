@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+
+</head>
+<body>
+    <div id="fd38bda97eb74655b473367be7d9c5d0" class="chart-container" style="width:600px; height:500px;"></div>
+    <script>
+        var chart_fd38bda97eb74655b473367be7d9c5d0 = echarts.init(
+            document.getElementById('fd38bda97eb74655b473367be7d9c5d0'), 'white', {renderer: 'canvas'});
+        var option_fd38bda97eb74655b473367be7d9c5d0 = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "color": [
+        "#c23531",
+        "#2f4554",
+        "#61a0a8",
+        "#d48265",
+        "#749f83",
+        "#ca8622",
+        "#bda29a",
+        "#6e7074",
+        "#546570",
+        "#c4ccd3",
+        "#f05b72",
+        "#ef5b9c",
+        "#f47920",
+        "#905a3d",
+        "#fab27b",
+        "#2a5caa",
+        "#444693",
+        "#726930",
+        "#b2d235",
+        "#6d8346",
+        "#ac6767",
+        "#1d953f",
+        "#6950a1",
+        "#918597"
+    ],
+    "series": [
+        {
+            "type": "pie",
+            "name": "frequency",
+            "clockwise": true,
+            "data": [
+                {
+                    "name": "(C, C)",
+                    "value": 3.0
+                },
+                {
+                    "name": "(C, D)",
+                    "value": 6.0
+                },
+                {
+                    "name": "(D, C)",
+                    "value": 4.0
+                },
+                {
+                    "name": "(D, D)",
+                    "value": 7.0
+                }
+            ],
+            "radius": [
+                "35%",
+                "60%"
+            ],
+            "center": [
+                "50%",
+                "55%"
+            ],
+            "roseType": "radius",
+            "label": {
+                "show": true,
+                "position": "outside",
+                "margin": 8,
+                "formatter": "{b|{b}}{abg|}\n{hr|}\n {c|{c} } {per|{d}%}  ",
+                "backgroundColor": "#eee",
+                "borderColor": "#aaa",
+                "borderWidth": 1,
+                "borderRadius": 4,
+                "rich": {
+                    "b": {
+                        "color": "#999",
+                        "fontSize": 12,
+                        "lineHeight": 20,
+                        "align": "center"
+                    },
+                    "abg": {
+                        "backgroundColor": "#e3e3e3",
+                        "width": "100%",
+                        "align": "right",
+                        "height": 20,
+                        "borderRadius": [
+                            4,
+                            4,
+                            0,
+                            0
+                        ]
+                    },
+                    "hr": {
+                        "borderColor": "#aaa",
+                        "width": "100%",
+                        "borderWidth": 0.5,
+                        "height": 0
+                    },
+                    "c": {
+                        "fontSize": 12,
+                        "lineHeight": 25
+                    },
+                    "per": {
+                        "fontSize": 12,
+                        "color": "#eee",
+                        "backgroundColor": "#334455",
+                        "height": 10,
+                        "padding": [
+                            2,
+                            2
+                        ],
+                        "borderRadius": 4
+                    },
+                    "d": {
+                        "fontSize": 4
+                    }
+                }
+            }
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                "(C, C)",
+                "(C, D)",
+                "(D, C)",
+                "(D, D)"
+            ],
+            "selected": {},
+            "type": "plain",
+            "show": false,
+            "left": "1%",
+            "top": "30%",
+            "orient": "vertical",
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14,
+            "textStyle": {
+                "fontSize": 12
+            }
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "formatter": "{b}: {c} ({d}%)",
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0
+    },
+    "title": [
+        {
+            "text": "ZDGo",
+            "subtext": "Human against ZD strategy\n\nchi: 2.0  n: 20  scores: (1.8, 2.3)",
+            "padding": 5,
+            "itemGap": 10,
+            "textStyle": {
+                "fontSize": 20
+            },
+            "subtextStyle": {
+                "fontSize": 16
+            }
+        }
+    ]
+};
+        chart_fd38bda97eb74655b473367be7d9c5d0.setOption(option_fd38bda97eb74655b473367be7d9c5d0);
+    </script>
+</body>
+</html>
