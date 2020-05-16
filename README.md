@@ -1,5 +1,7 @@
 # iPrisoner
-### Interactive Prisoner's Dilemma game
+## Interactive Prisoner's Dilemma games
+
+### ZDGo
 
 <p align="center">
 <img src="./images/cover.png" alt="" width="900">
